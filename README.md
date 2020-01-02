@@ -26,8 +26,8 @@ iii. Create an HTML that displays a formatted Team Roster consisting of the Team
 You will need Node.js and the following NPM packages/dependencies: inquirer and jest, along with MySQL.
 
 ## CREDITS:
-### NPM
-### MySQL
+#### NPM
+#### MySQL
 
 
 
