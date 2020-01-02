@@ -6,7 +6,7 @@ This is a Software Engineering Team Generator command-line application. It has b
 
 ### Usage:
 
-To generate a webpage that displays a manager's team basic information in order to have quick access to employees' emails and Github profiles.
+To generate a webpage that displays a manager's team basic information in order to have quick access to employees' information such as their Github profiles.
 
 ## INSTRUCTIONS:
 
