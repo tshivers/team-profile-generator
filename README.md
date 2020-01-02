@@ -10,15 +10,15 @@ To generate a webpage that displays a manager's team basic information in order 
 
 ## INSTRUCTIONS:
 
-### (User Input)
+### User Input
 Build a command-line application that prompts the user to build an engineering team and at minimum:
 
 i. Input a mix of Team Members consisting of at least one Engineer and one Intern.
 
-### (Test Functionality)
+### Test Functionality
 ii. Pass all unit tests. 
 
-### (Roster Output)
+### Roster Output
 iii. Create an HTML that displays a formatted Team Roster consisting of the Team Member's name, role, ID and role-specific property e.g. School, link to GitHub profile or office number.
 
 ## INSTALLATION and REQUIREMENTS:
